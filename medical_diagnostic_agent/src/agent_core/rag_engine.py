@@ -98,7 +98,7 @@ def generate_clinical_response(query: str, api_key: str):
 # 簡單的本機測試
 if __name__ == "__main__":
     # 若要單獨測試此腳本，請在這裡填入您的 API Key
-    MY_API_KEY = "AIzaSyDGkc3uivECPSEetF2hVoLlUqu4luh5ofg"
+    MY_API_KEY = "YOUR AI API KEY"
     test_query = "What are the rare genetic causes of jaundice or hyperbilirubinemia?"
 
     print("正在思考與檢索中...\n")
