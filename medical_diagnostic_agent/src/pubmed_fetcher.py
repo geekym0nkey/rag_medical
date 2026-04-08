@@ -15,7 +15,7 @@ def fetch_pubmed_discussion(query: str, max_results: int = 50) -> pd.DataFrame:
     """
     print(f"開始搜尋具備全文的文獻: {query}...")
 
-    # 第一階段：搜尋 PubMed 中有連結到 PMC (全文) 的文獻
+    # 1.搜尋 PubMed 中有連結到 PMC (全文) 的文獻
 
     pmc_query = f"({query}) AND \"open access\"[filter]"
 
@@ -36,7 +36,7 @@ def fetch_pubmed_discussion(query: str, max_results: int = 50) -> pd.DataFrame:
 
     all_data = []
 
-    # 第二階段：從 PMC 抓取 XML 全文
+    # 2.從 PMC 抓取 XML 全文
     for pmcid in pmcid_list:
         try:
             # 加上 sleep 防止請求過快被封鎖
@@ -83,7 +83,7 @@ def fetch_pubmed_discussion(query: str, max_results: int = 50) -> pd.DataFrame:
             print(f"處理 PMCID {pmcid} 時跳過，原因: {e}")
             continue
 
-    # 第三階段：轉換為 DataFrame 並輸出
+    # 3.轉換為 DataFrame 並輸出
     df = pd.DataFrame(all_data)
 
     # 儲存路徑
