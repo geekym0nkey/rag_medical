@@ -7,7 +7,7 @@ def fetch_recent_medrxiv_papers(start_date: str, end_date: str) -> pd.DataFrame:
     從 medRxiv 抓取指定日期範圍內的未發表臨床醫學文獻。
     API 格式要求: https://api.medrxiv.org/details/medrxiv/[start_date]/[end_date]/[cursor]/json
     """
-    # 修正重點：正確初始化一個空的 List
+    
     all_papers = []
     cursor = 0  # API 分頁指標，預設從 0 開始
 
@@ -47,7 +47,7 @@ def fetch_recent_medrxiv_papers(start_date: str, end_date: str) -> pd.DataFrame:
             title_lower = title.lower()
             abstract_lower = abstract.lower()
 
-            # 醫學關鍵字過濾：黃疸 (jaundice) 或 膽紅素 (bilirubin)
+            # 醫學關鍵字過濾
             if ('jaundice' in title_lower or 'jaundice' in abstract_lower
                     or 'bilirubin' in title_lower or 'bilirubin' in abstract_lower
                     or 'rare liver disease' in title_lower or 'rare liver disease' in abstract_lower
@@ -63,24 +63,20 @@ def fetch_recent_medrxiv_papers(start_date: str, end_date: str) -> pd.DataFrame:
                 })
 
 
-        # 底部處理分頁的地方也要改：從 status_info 拿 total
+        
         total_count = int(status_info.get('total', 0))
         cursor += 100
         if cursor >= total_count:
             break
 
-    # 將 List 轉換為 Pandas DataFrame
     df = pd.DataFrame(all_papers)
     print(f"抓取完成，共找到 {len(df)} 篇相關的最新文獻。")
 
-    # 儲存路徑邏輯：定位到專案的 data 資料夾
     output_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data"))
-    # 確保 data 資料夾存在
     os.makedirs(output_dir, exist_ok=True)
 
     output_path = os.path.join(output_dir, "medrxiv_fetcher.csv")
 
-    # 輸出為 CSV，使用 utf-8-sig 確保 Excel 開啟時不會有中文亂碼
     df.to_csv(output_path, index=False, encoding='utf-8-sig')
 
     print(f"medrxiv資訊抓取完成！基因相關資料已成功儲存至:\n {output_path}")
@@ -91,7 +87,7 @@ def fetch_recent_medrxiv_papers(start_date: str, end_date: str) -> pd.DataFrame:
 
 # 測試程式碼
 if __name__ == "__main__":
-    # 搜尋 2023 年到 2024 年初的資料
+    # 搜尋 2000 年後的資料
     df_results = fetch_recent_medrxiv_papers("2000-01-01", "2026-03-01")
     if not df_results.empty:
         # 印出前幾筆資料
