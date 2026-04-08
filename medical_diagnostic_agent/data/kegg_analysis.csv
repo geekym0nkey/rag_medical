@@ -1,0 +1,182 @@
+﻿gene_id,description,pathway_id
+10257,ATP binding cassette subfamily C member 4 (PEL blood group) [KO:K05673],hsa04976
+10599,solute carrier organic anion transporter family member 1B1 [KO:K05043],hsa04976
+107,adenylate cyclase 1 [KO:K08041] [EC:4.6.1.1],hsa04976
+10720,UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17],hsa04976
+108,adenylate cyclase 2 [KO:K08042] [EC:4.6.1.1],hsa04976
+1080,CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6],hsa04976
+10864,solute carrier family 22 member 7 [KO:K08204],hsa04976
+109,adenylate cyclase 3 [KO:K08043] [EC:4.6.1.1],hsa04976
+10941,UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17],hsa04976
+10998,solute carrier family 27 member 5 [KO:K08748] [EC:6.2.1.7],hsa04976
+111,adenylate cyclase 5 [KO:K08045] [EC:4.6.1.1],hsa04976
+112,adenylate cyclase 6 [KO:K08046] [EC:4.6.1.1],hsa04976
+113,adenylate cyclase 7 [KO:K08047] [EC:4.6.1.1],hsa04976
+114,adenylate cyclase 8 [KO:K08048] [EC:4.6.1.1],hsa04976
+115,adenylate cyclase 9 [KO:K08049] [EC:4.6.1.1],hsa04976
+115072896,SLCO1B3-SLCO1B7 readthrough [KO:K05043],hsa04976
+123264,SLC51 subunit beta [KO:K14361],hsa04976
+1244,ATP binding cassette subfamily C member 2 [KO:K05666],hsa04976
+1576,cytochrome P450 family 3 subfamily A member 4 [KO:K17689] [EC:1.14.13.32 1.14.14.55 1.14.14.56 1.14.14.57 1.14.14.73 1.14.14.-],hsa04976
+1581,cytochrome P450 family 7 subfamily A member 1 [KO:K00489] [EC:1.14.14.23],hsa04976
+196883,adenylate cyclase 4 [KO:K08044] [EC:4.6.1.1],hsa04976
+200931,solute carrier family 51 member A [KO:K14360],hsa04976
+2052,epoxide hydrolase 1 [KO:K01253] [EC:3.3.2.9],hsa04976
+23439,ATPase Na+/K+ transporting family member beta 4 [KO:K01540],hsa04976
+2778,GNAS complex locus [KO:K04632],hsa04976
+28234,solute carrier organic anion transporter family member 1B3 [KO:K05043],hsa04976
+3156,3-hydroxy-3-methylglutaryl-CoA reductase [KO:K00021] [EC:1.1.1.34],hsa04976
+343,aquaporin 8 [KO:K09869],hsa04976
+358,aquaporin 1 (Colton blood group) [KO:K09864],hsa04976
+361,aquaporin 4 [KO:K09866],hsa04976
+366,aquaporin 9 [KO:K09877],hsa04976
+3781,potassium calcium-activated channel subfamily N member 2 [KO:K04943],hsa04976
+3949,low density lipoprotein receptor [KO:K12473],hsa04976
+476,ATPase Na+/K+ transporting subunit alpha 1 [KO:K01539] [EC:7.2.2.13],hsa04976
+477,ATPase Na+/K+ transporting subunit alpha 2 [KO:K01539] [EC:7.2.2.13],hsa04976
+478,ATPase Na+/K+ transporting subunit alpha 3 [KO:K01539] [EC:7.2.2.13],hsa04976
+480,ATPase Na+/K+ transporting subunit alpha 4 [KO:K01539] [EC:7.2.2.13],hsa04976
+481,ATPase Na+/K+ transporting subunit beta 1 [KO:K01540],hsa04976
+482,ATPase Na+/K+ transporting subunit beta 2 [KO:K01540],hsa04976
+483,ATPase Na+/K+ transporting subunit beta 3 [KO:K01540],hsa04976
+486,FXYD domain containing ion transport regulator 2 [KO:K01538],hsa04976
+5243,ATP binding cassette subfamily B member 1 [KO:K05658] [EC:7.6.2.2],hsa04976
+5244,ATP binding cassette subfamily B member 4 [KO:K05659] [EC:7.6.2.2],hsa04976
+54490,UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17],hsa04976
+54575,UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17],hsa04976
+54576,UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17],hsa04976
+54577,UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17],hsa04976
+54578,UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17],hsa04976
+54579,UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17],hsa04976
+54600,UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17],hsa04976
+54657,UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17],hsa04976
+54658,UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17],hsa04976
+54659,UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17],hsa04976
+5566,protein kinase cAMP-activated catalytic subunit alpha [KO:K04345] [EC:2.7.11.11],hsa04976
+5567,protein kinase cAMP-activated catalytic subunit beta [KO:K04345] [EC:2.7.11.11],hsa04976
+5568,protein kinase cAMP-activated catalytic subunit gamma [KO:K04345] [EC:2.7.11.11],hsa04976
+570,bile acid-CoA:amino acid N-acyltransferase [KO:K00659] [EC:2.3.1.65 3.1.2.2],hsa04976
+574537,UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17],hsa04976
+57552,neutral cholesterol ester hydrolase 1 [KO:K14349] [EC:3.1.1.-],hsa04976
+57835,solute carrier family 4 member 5 [KO:K13857],hsa04976
+6256,retinoid X receptor alpha [KO:K08524],hsa04976
+6343,secretin [KO:K05263],hsa04976
+6344,secretin receptor [KO:K04588],hsa04976
+64240,ATP binding cassette subfamily G member 5 [KO:K05683],hsa04976
+64241,ATP binding cassette subfamily G member 8 [KO:K05684],hsa04976
+6513,solute carrier family 2 member 1 [KO:K07299],hsa04976
+6522,solute carrier family 4 member 2 [KO:K13855],hsa04976
+6523,solute carrier family 5 member 1 [KO:K14158],hsa04976
+6548,solute carrier family 9 member A1 [KO:K05742],hsa04976
+6550,solute carrier family 9 member A3 [KO:K12040],hsa04976
+6554,solute carrier family 10 member 1 [KO:K14341],hsa04976
+6555,solute carrier family 10 member 2 [KO:K14342],hsa04976
+6579,solute carrier organic anion transporter family member 1A2 [KO:K03460],hsa04976
+6580,solute carrier family 22 member 1 [KO:K08198],hsa04976
+6822,sulfotransferase family 2A member 1 [KO:K11822] [EC:2.8.2.14],hsa04976
+7363,UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17],hsa04976
+7364,UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17],hsa04976
+7365,UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17],hsa04976
+7366,UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17],hsa04976
+7367,UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17],hsa04976
+760,carbonic anhydrase 2 [KO:K18245] [EC:4.2.1.1],hsa04976
+79799,UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17],hsa04976
+8431,nuclear receptor subfamily 0 group B member 2 [KO:K08563],hsa04976
+8647,ATP binding cassette subfamily B member 11 [KO:K05664],hsa04976
+8671,solute carrier family 4 member 4 [KO:K13575],hsa04976
+8714,ATP binding cassette subfamily C member 3 [KO:K05667],hsa04976
+9376,solute carrier family 22 member 8 [KO:K08205],hsa04976
+9429,ATP binding cassette subfamily G member 2 (JR blood group) [KO:K05681],hsa04976
+949,scavenger receptor class B member 1 [KO:K13885],hsa04976
+9971,nuclear receptor subfamily 1 group H member 4 [KO:K08537],hsa04976
+10720,UDP glucuronosyltransferase family 2 member B11 [KO:K00699] [EC:2.4.1.17],hsa00860
+10941,UDP glucuronosyltransferase family 2 member A1 complex locus [KO:K00699] [EC:2.4.1.17],hsa00860
+124454,"glutamyl-tRNA synthetase 2, mitochondrial [KO:K01885] [EC:6.1.1.17]",hsa00860
+1352,cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10 [KO:K02257] [EC:2.5.1.141],hsa00860
+1355,cytochrome c oxidase assembly factor COX15 [KO:K02259] [EC:1.17.99.9],hsa00860
+1356,ceruloplasmin [KO:K13624] [EC:1.16.3.1],hsa00860
+1371,coproporphyrinogen oxidase [KO:K00228] [EC:1.3.3.3],hsa00860
+2058,glutamyl-prolyl-tRNA synthetase 1 [KO:K14163] [EC:6.1.1.17 6.1.1.15],hsa00860
+210,aminolevulinate dehydratase [KO:K01698] [EC:4.2.1.24],hsa00860
+211,5'-aminolevulinate synthase 1 [KO:K00643] [EC:2.3.1.37],hsa00860
+212,5'-aminolevulinate synthase 2 [KO:K00643] [EC:2.3.1.37],hsa00860
+2235,ferrochelatase [KO:K01772] [EC:4.98.1.1 4.99.1.9],hsa00860
+2395,frataxin [KO:K19054] [EC:1.16.3.1],hsa00860
+2495,ferritin heavy chain 1 [KO:K00522] [EC:1.16.3.1],hsa00860
+2512,ferritin light chain [KO:K13625],hsa00860
+2990,glucuronidase beta [KO:K01195] [EC:3.2.1.31],hsa00860
+3052,holocytochrome c synthase [KO:K01764] [EC:4.4.1.17],hsa00860
+3145,hydroxymethylbilane synthase [KO:K01749] [EC:2.5.1.61],hsa00860
+3162,heme oxygenase 1 [KO:K00510] [EC:1.14.14.18],hsa00860
+3163,heme oxygenase 2 [KO:K21418] [EC:1.14.14.18],hsa00860
+326625,metabolism of cobalamin associated B [KO:K00798] [EC:2.5.1.17],hsa00860
+341208,hephaestin like 1 [KO:K14735] [EC:1.16.3.1],hsa00860
+54490,UDP glucuronosyltransferase family 2 member B28 [KO:K00699] [EC:2.4.1.17],hsa00860
+54575,UDP glucuronosyltransferase family 1 member A10 [KO:K00699] [EC:2.4.1.17],hsa00860
+54576,UDP glucuronosyltransferase family 1 member A8 [KO:K00699] [EC:2.4.1.17],hsa00860
+54577,UDP glucuronosyltransferase family 1 member A7 [KO:K00699] [EC:2.4.1.17],hsa00860
+54578,UDP glucuronosyltransferase family 1 member A6 [KO:K00699] [EC:2.4.1.17],hsa00860
+54579,UDP glucuronosyltransferase family 1 member A5 [KO:K00699] [EC:2.4.1.17],hsa00860
+54600,UDP glucuronosyltransferase family 1 member A9 [KO:K00699] [EC:2.4.1.17],hsa00860
+54657,UDP glucuronosyltransferase family 1 member A4 [KO:K00699] [EC:2.4.1.17],hsa00860
+54658,UDP glucuronosyltransferase family 1 member A1 [KO:K00699] [EC:2.4.1.17],hsa00860
+54659,UDP glucuronosyltransferase family 1 member A3 [KO:K00699] [EC:2.4.1.17],hsa00860
+5498,protoporphyrinogen oxidase [KO:K00231] [EC:1.3.3.4 1.3.3.15],hsa00860
+574537,UDP glucuronosyltransferase family 2 member A2 [KO:K00699] [EC:2.4.1.17],hsa00860
+644,biliverdin reductase A [KO:K00214] [EC:1.3.1.24],hsa00860
+645,biliverdin reductase B [KO:K05901] [EC:1.3.1.24 1.5.1.30],hsa00860
+7363,UDP glucuronosyltransferase family 2 member B4 [KO:K00699] [EC:2.4.1.17],hsa00860
+7364,UDP glucuronosyltransferase family 2 member B7 [KO:K00699] [EC:2.4.1.17],hsa00860
+7365,UDP glucuronosyltransferase family 2 member B10 [KO:K00699] [EC:2.4.1.17],hsa00860
+7366,UDP glucuronosyltransferase family 2 member B15 [KO:K00699] [EC:2.4.1.17],hsa00860
+7367,UDP glucuronosyltransferase family 2 member B17 [KO:K00699] [EC:2.4.1.17],hsa00860
+7389,uroporphyrinogen decarboxylase [KO:K01599] [EC:4.1.1.37],hsa00860
+7390,uroporphyrinogen III synthase [KO:K01719] [EC:4.2.1.75],hsa00860
+79799,UDP glucuronosyltransferase family 2 member A3 [KO:K00699] [EC:2.4.1.17],hsa00860
+94033,ferritin mitochondrial [KO:K18495] [EC:1.16.3.1],hsa00860
+9843,hephaestin [KO:K14735] [EC:1.16.3.1],hsa00860
+10057,ATP binding cassette subfamily C member 5 [KO:K05668],hsa02010
+10058,ATP binding cassette subfamily B member 6 (Langereis blood group) [KO:K05661],hsa02010
+10060,ATP binding cassette subfamily C member 9 [KO:K05033],hsa02010
+10257,ATP binding cassette subfamily C member 4 [KO:K05673],hsa02010
+10347,ATP binding cassette subfamily A member 7 [KO:K05645],hsa02010
+10349,ATP binding cassette subfamily A member 10 [KO:K05652],hsa02010
+10350,ATP binding cassette subfamily A member 9 [KO:K05651],hsa02010
+10351,ATP binding cassette subfamily A member 8 [KO:K05650],hsa02010
+1080,CF transmembrane conductance regulator [KO:K05031] [EC:5.6.1.6],hsa02010
+11194,ATP binding cassette subfamily B member 8 [KO:K05655],hsa02010
+1244,ATP binding cassette subfamily C member 2 [KO:K05666],hsa02010
+154664,ATP binding cassette subfamily A member 13 [KO:K05647],hsa02010
+1672,defensin beta 1 [KO:K23125],hsa02010
+19,ATP binding cassette subfamily A member 1 [KO:K05641],hsa02010
+20,ATP binding cassette subfamily A member 2 [KO:K05642],hsa02010
+21,ATP binding cassette subfamily A member 3 [KO:K05643],hsa02010
+215,ATP binding cassette subfamily D member 1 [KO:K05675] [EC:7.6.2.4],hsa02010
+22,ATP binding cassette subfamily B member 7 [KO:K05662],hsa02010
+225,ATP binding cassette subfamily D member 2 [KO:K05676] [EC:7.6.2.4],hsa02010
+23456,ATP binding cassette subfamily B member 10 [KO:K05657],hsa02010
+23457,ATP binding cassette subfamily B member 9 [KO:K05656],hsa02010
+23460,ATP binding cassette subfamily A member 6 [KO:K05649],hsa02010
+23461,ATP binding cassette subfamily A member 5 [KO:K05648],hsa02010
+24,ATP binding cassette subfamily A member 4 [KO:K05644],hsa02010
+26154,ATP binding cassette subfamily A member 12 [KO:K05646],hsa02010
+340273,ATP binding cassette subfamily B member 5 [KO:K05660],hsa02010
+368,ATP binding cassette subfamily C member 6 [KO:K05669],hsa02010
+4363,ATP binding cassette subfamily C member 1 [KO:K05665] [EC:7.6.2.3],hsa02010
+5243,ATP binding cassette subfamily B member 1 [KO:K05658] [EC:7.6.2.2],hsa02010
+5244,ATP binding cassette subfamily B member 4 [KO:K05659] [EC:7.6.2.2],hsa02010
+5825,ATP binding cassette subfamily D member 3 [KO:K05677] [EC:7.6.2.4],hsa02010
+5826,ATP binding cassette subfamily D member 4 [KO:K05678] [EC:7.6.2.8],hsa02010
+64137,ATP binding cassette subfamily G member 4 [KO:K05680],hsa02010
+64240,ATP binding cassette subfamily G member 5 [KO:K05683],hsa02010
+64241,ATP binding cassette subfamily G member 8 [KO:K05684],hsa02010
+6833,ATP binding cassette subfamily C member 8 [KO:K05032],hsa02010
+6890,"transporter 1, ATP binding cassette subfamily B member [KO:K05653] [EC:7.4.2.14]",hsa02010
+6891,"transporter 2, ATP binding cassette subfamily B member [KO:K05654] [EC:7.4.2.14]",hsa02010
+85320,ATP binding cassette subfamily C member 11 [KO:K05671],hsa02010
+8647,ATP binding cassette subfamily B member 11 [KO:K05664],hsa02010
+8714,ATP binding cassette subfamily C member 3 [KO:K05667],hsa02010
+89845,ATP binding cassette subfamily C member 10 [KO:K05674],hsa02010
+94160,ATP binding cassette subfamily C member 12 [KO:K05672],hsa02010
+9429,ATP binding cassette subfamily G member 2 (Junior blood group) [KO:K05681],hsa02010
+9619,ATP binding cassette subfamily G member 1 [KO:K05679],hsa02010
