@@ -1,5 +1,5 @@
 streamlit
-Bio
+biopython
 langchain_chroma
 langchain
 langchain_core
@@ -7,4 +7,5 @@ langchain_huggingface
 langchain_google_genai
 langchain_community
 google-generativeai
-pathlib 
+pathlib
+sentence-transformers
